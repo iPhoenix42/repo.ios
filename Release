@@ -1,0 +1,17 @@
+Origin: iPhoenix42's iOS Repo
+Label:iPhoenix42's iOS Repo
+Suite: stable
+Version: 1.0
+Codename: iPhoenix42
+Architectures: iphoneos-arm
+Components: main
+Description: À ajouter dans les sources de votre gestionnaire de paquet (iOS) [Cydia/Zebra/Sileo/Installer 5]
+Organisation: iPhoenix42 Jailbreak Source
+Maintainer: iPhoenix42 <iphoenix42@outlook.com>
+Author: iPhoenix42's iOS Repo
+Icone: ./CydiaIcon.png
+DonateLink: https://www.paypal.me/audrisrichard
+TwitterLink: https://www.twitter.com/iPhoenix42
+e-maillink: iphoenix42@outlook.com
+e-mail: iphoenix42@outlook.com
+Website: https://www.twitter.com/iPhoenix42

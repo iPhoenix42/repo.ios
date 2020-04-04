@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<script language="javascript">
+			var lang=(navigator.language||navigator.userLanguage).toLowerCase();
+			lang=lang.toLowerCase();
+			var langPages={
+				default:'fr_FR/',
+    
+			}
+			window.location.replace( langPages[lang]||langPages.default );
+		</script>
+	</body>
+</html>

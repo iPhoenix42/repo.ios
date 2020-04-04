@@ -1,0 +1,49 @@
+Package: com.iphoenix42.apppercent
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: iPhoenix42 <iphoenix42@outlook.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, net.limneos.libbulletin
+Filename: ./debs/com.iphoenix42.apppercent.deb
+Size: 16852
+MD5sum: 6fad24b0e7c647f11a3b2eeba862a925
+SHA1: 6a887eecdd6e68c2ed0c504404a50fe4e3127c35
+SHA256: edf13c45733620194c4559b799f1c135a82921918523a33267271b4cca17a5cd
+Section: Tweak
+Description: Installation d'applications en Pourcentage (%) et notification.
+Author: iPhoenix42 <iphoenix42@outlook.com>
+Name: App Percent
+
+Package: com.iphoenix42.overachiever
+Version: 1.0.23-1
+Architecture: iphoneos-arm
+Maintainer: iPhoenix42 <iphoenix42@outlook.com>
+Depends: firmware (>= 4.2), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.5.6)
+Filename: ./debs/com.iphoenix42.overachiever.deb
+Size: 1341288
+MD5sum: e3a241d88f67dea9434c9c5365458a66
+SHA1: 4c77b75e71eb8168cb96850954e66dc57af50be1
+SHA256: 7ce8c8aa9343ec070c095cd5e058bacb17c2271b10800fc97d7435a39b62cdbb
+Section: Tweak
+Priority: optional
+Description: Automatically earn all missing achievements for Game Center games
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: iPhoenix42 <iphoenix42@outlook.com>
+Dev: iPhoenix42 <iphoenix42@outlook.com>
+Icon: file:///Library/PreferenceLoader/Preferences/Overachiever/de.ingmarstein.overachiever@2x.png
+Name: Overachiever
+
+Package: com.iphoenix42.watchreboot
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: iPhoenix42 <iphoenix42@outlook.com>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.iphoenix42.watchreboot.deb
+Size: 7136
+MD5sum: e8a736a08bc54c577bd3dc021813f7b9
+SHA1: 0ce9675f74481be7d3bfbf49ee935592861f03af
+SHA256: 1f9d9b8236578b5e05416088cfdee46b5bfab215e10388c519a98a97cbc9ce8d
+Section: Tweak
+Description: Redémarrez ou envoyez une requête ping à votre Apple Watch à partir de l'application Watch.
+Author: iPhoenix42 <iphoenix42@outlook.com>
+Name: WatchReboot
+
