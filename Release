@@ -5,7 +5,7 @@ Version: 1.0
 Codename: iPhoenix42
 Architectures: iphoneos-arm
 Components: main
-Description: À ajouter dans les sources de votre gestionnaire de paquet (iOS) [Cydia/Zebra/Sileo/Installer 5]
+Description: À ajouter dans les sources de votre gestionnaire de paquet iOS [Cydia/Zebra/Sileo/Installer 5]
 Organisation: iPhoenix42 Jailbreak Source
 Maintainer: iPhoenix42 <iphoenix42@outlook.com>
 Author: iPhoenix42's iOS Repo
