@@ -7,7 +7,7 @@
 	-ms-border-radius: 0;
 	-o-border-radius: 0;
 	font-family: inherit;
-	font-size: 98%;
+	font-size: 100%;
 	font-style: inherit;
 	font-weight: inherit;
 	line-height: inherit;
@@ -21,8 +21,8 @@
 body {
 	font-family: -apple-system-font, 'Helvetica Neue', Helvetica, Arial;
 	line-height: 1.3em;
-	width: 98%;
-	max-width: 450px;
+	width: 100%;
+	max-width: 330px;
 	margin: 0 auto;
 	padding: 0;
 	background: #efeff4;
@@ -36,7 +36,7 @@ sup {
 }
 
 a {
-	color: #0000aa;
+	color: #cc0000;
 	text-underline-style: dotted;
 }
 
@@ -110,7 +110,7 @@ fieldset > a: last-child, fieldset > div: last-child, fieldset > textarea: last-
 }
 
 fieldset > a, fieldset > div, fieldset > textarea {
-	padding: 10px 15px;
+	padding: 6px 0px;
 }
 
 img.icon {
@@ -120,7 +120,7 @@ img.icon {
 }
 
 fieldset > a > img.icon {
-	margin: -5px 10px -9px 0px;
+	margin: -5px 19px -9px 0px;
 }
 
 fieldset > a {
