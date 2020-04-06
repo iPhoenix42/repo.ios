@@ -22,7 +22,7 @@ body {
 	font-family: -apple-system-font, 'Helvetica Neue', Helvetica, Arial;
 	line-height: 1.3em;
 	width: 100%;
-	max-width: 330px;
+	max-width: 430px;
 	margin: 0 auto;
 	padding: 0;
 	background: #efeff4;
@@ -162,8 +162,8 @@ fieldset.header {
 }
 
 panel > label, fieldset.footer label, fieldset.header label {
-	color: #404c64;
-	text-shadow: rgba(255, 255, 255, 0.75) 1px 1px 0;
+	color: #cc0000;
+	text-shadow: rgba(0, 0, 0, 1) 1px 1.99px 0;
 }
 
 panel > label {
